@@ -5,7 +5,8 @@
 测试路由固件
 
 hiboy大神的华硕老毛子
-固件链接> https://www.right.com.cn/forum/thread-161324-1-1.html
+固件链接
+> https://www.right.com.cn/forum/thread-161324-1-1.html
 
 具体执行教程可以参考末尾链接
 
